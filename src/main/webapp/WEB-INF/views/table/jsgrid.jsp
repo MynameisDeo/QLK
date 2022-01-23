@@ -19,12 +19,12 @@
       </div>
 			<!-- /.container-fluid -->
     </section>
-
     <!-- Main content -->
     <section class="content">
       <div class="card">
         <div class="card-header">
           <h3 class="card-title">jsGrid</h3>
+          ccccccccccccccccc
         </div>
         <!-- /.card-header -->
        <div class="card-body">
